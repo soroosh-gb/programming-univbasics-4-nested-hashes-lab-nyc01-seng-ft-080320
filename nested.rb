@@ -137,9 +137,9 @@ def adding_to_dennis
     }
 programmer_hash[:dennis_ritchie] = {
   :dennis_ritchie => {
-        :known_for => "Unix",
-        :languages => ["C" , "Assembly"]
-      }
+    :known_for => "Unix",
+    :languages => ["C" , "Assembly"]
+  }
   
 }
 end
